@@ -17,10 +17,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gihan_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gihan_99" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gihan-madusanka-1ba387154/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gihan-madusanka-1ba387154/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/gihan.madusanka.37266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/gihan.madusanka.37266" height="30" width="40" /></a>
-<a href="https://instagram.com/http://www.instagram.com/_gihan_841_/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="http://www.instagram.com/_gihan_841_/?hl=en" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/gihan_841" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/gihan_841" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gihan-madusanka-1ba387154/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gihan-madusanka-1ba387154/" height="30" width="40" /></a>
+<a href="https://fb.com/gihan.madusanka.37266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/gihan.madusanka.37266" height="30" width="40" /></a>
+<a href="https://instagram.com/_gihan_841_/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="http://www.instagram.com/_gihan_841_/?hl=en" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/gihan_841" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/gihan_841" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
