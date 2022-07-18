@@ -1,5 +1,3 @@
-![MasterHead](https://miro.medium.com/max/1400/1*z09s6aSERC0ZuZ4jCYWVuA.png)
-
 <h1 align="center">Hi 👋, I'm Gihan Madhusankha</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/729829/screenshots/2712522/galshir.gif">
