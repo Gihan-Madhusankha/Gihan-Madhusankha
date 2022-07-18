@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Gihan Madhusankha</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/729829/screenshots/2712522/galshir.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gihan-madhusankha&label=Profile%20views&color=0e75b6&style=flat" alt="gihan-madhusankha" /> </p>
 
