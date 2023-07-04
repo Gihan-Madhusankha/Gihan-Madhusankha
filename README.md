@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 📫 How to reach me **gmadusanka1234@gmail.com**
+- 📫 How to reach me **gihanmadhusankha1999@gmail.com**
 
 - ⚡ Fun fact **Can be funny and dumb at times**
 
